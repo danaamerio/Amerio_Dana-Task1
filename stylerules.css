@@ -1,0 +1,21 @@
+*{
+    margin: 01rem;
+    padding: 0;
+   background-color: rgb(231, 195, 213); 
+}
+
+header{ 
+    margin-right: 10px; 
+}
+
+main{
+     margin-right: 20px; 
+}
+
+footer{
+    margin-right: 10px; 
+}
+
+h1, p {
+    text-align: center;
+  }
